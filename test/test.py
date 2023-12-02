@@ -1,5 +1,5 @@
 import unittest
-import basico as c
+import basico.basico as c
 
 class testeoBasicos(unittest.TestCase):
 
